@@ -42,7 +42,7 @@ The app should:
 https://github.com/candicewongls/work-planner-challenge
 
 ## Live URL
-https://candicewongls.github.io/code-quiz/
+https://candicewongls.github.io/work-planner-challenge/
 
 ## Credit
 https://www.w3schools.com/js/
